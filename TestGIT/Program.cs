@@ -21,5 +21,10 @@ namespace TestGIT
         {
 
         }
+
+        public void Follow()
+        {
+
+        }
     }
 }
